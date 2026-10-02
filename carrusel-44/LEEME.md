@@ -1,6 +1,6 @@
 # Carrusel XLIV — «El libro sigue abierto»
 
-10 láminas 1080×1350 (4:5, formato vertical de Instagram) en `laminas/`, en orden de publicación:
+10 láminas 1080×1350 sobre el fondo `fondo.png` (4:5, formato vertical de Instagram) en `laminas/`, en orden de publicación:
 
 | # | Archivo | Contenido |
 |---|---------|-----------|
@@ -8,8 +8,9 @@
 | 2–9 | `01-I.png` … `08-VIII.png` | Una parte del texto por lámina |
 | 10 | `09-cierre.png` | Llamado a interactuar: ARRANCO / CONSERVO |
 
-El fondo (humo, sigilos e hilo dorado) es un solo lienzo continuo: los círculos rituales
-quedan partidos entre lámina y lámina para que al deslizar se vea la continuación.
+Cada lámina muestra un encuadre distinto del mismo fondo: la portada abre arriba, con la luz
+y el círculo ritual, y el cierre baja hasta el círculo del suelo. Un hilo dorado continuo
+une las láminas al deslizar. En la portada va la fecha de nacimiento: 2 · X · MCMLXXXII.
 `panorama.jpg` muestra el recorrido completo.
 
 Para regenerar tras editar `carrusel.html`: `node render.mjs` (Playwright + Chromium).
