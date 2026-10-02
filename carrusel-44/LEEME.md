@@ -19,21 +19,26 @@ Para regenerar tras editar `carrusel.html`: `node render.mjs` (Playwright + Chro
 
 ## Texto para la publicación (caption)
 
+En 1849 le vendaron los ojos a Dostoievski frente a un pelotón de fusilamiento. Vivió 32 años más.
+
 Hoy cumplo 44.
 
-En 1849, a Dostoievski lo pusieron frente a un pelotón de fusilamiento. Le quedaban segundos. Vivió 32 años más y escribió sus mejores obras después de su peor momento.
+No vengo a contar una vida limpia. Mi libro tiene más tachaduras que renglones: decisiones egoístas, irresponsabilidades que pagaron otros, heridas que todavía duelen cuando cambia el clima del alma.
 
-Este año no quiero celebrar lo que he sido. Escribí ocho páginas sobre culpa, tiempo y redención, de la mano de Dostoievski, Tolstói, Kafka, Chéjov y Solzhenitsyn. Desliza hasta el final. ➝
+Este año no quise hacer una lista de logros. Escribí ocho páginas sobre la culpa, el tiempo y la redención, de la mano de Dostoievski, Tolstói, Kafka, Chéjov y Solzhenitsyn. Están aquí, una por lámina. Léelas hasta el final.
 
-Y después respóndeme con una sola palabra:
-¿ARRANCO o CONSERVO?
-Si pudieras arrancar una página de tu libro, ¿lo harías?
+Lo que aprendí: no hace falta arrancar las páginas oscuras. Son la tinta con la que todavía se puede escribir algo verdadero.
 
-Guárdalo para el día en que sientas que se te acaba el tiempo. Envíaselo a quien sigue esperando frente a su puerta.
+Ahora te pregunto a ti.
+Si pudieras arrancar una sola página de tu libro, ¿lo harías?
+Respóndeme con una palabra: ARRANCO o CONSERVO.
 
-El libro sigue abierto. La pluma sigue en mi mano. ♎︎
+Guárdalo para el día en que sientas que se te acaba el tiempo. Y envíaselo a alguien que sigue esperando frente a su puerta.
 
-#cumpleaños #44años #libra #temporadadelibra #dostoievski #tolstoi #kafka #chejov #solzhenitsyn #literaturarusa #redencion #reflexiones #mementovivere #filosofia #crecimientopersonal
+Hoy no celebro lo que he sido. Celebro lo que todavía puedo llegar a ser.
+El libro sigue abierto. La pluma sigue en mi mano. ♎
+
+#Cumpleaños #Libra #Dostoievski #LiteraturaRusa #MementoVivere
 
 ## Primer comentario (fijarlo)
 
