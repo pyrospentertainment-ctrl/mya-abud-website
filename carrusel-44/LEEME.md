@@ -46,4 +46,4 @@ Carrusel de diez láminas en fondo negro con humo, sigilos rituales dorados y el
 
 - Publica entre las 19:00 y 21:00 de tu zona horaria; responde los primeros comentarios en la primera hora.
 - Comparte la portada en historias con el sticker de encuesta «¿Arrancarías una página de tu libro? ARRANCO / CONSERVO» y un enlace a la publicación.
-- En Instagram activa «Añadir música» con una pieza instrumental lenta (por ejemplo, de piano o cuerdas). Los carruseles con música también aparecen en Reels.
+- En Instagram activa «Añadir música» con una pieza instrumental lenta (por ejemplo, de piano o cuerdas).
